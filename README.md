@@ -11,6 +11,7 @@ Curated knowledge bases for computational biology — awesome lists with compani
 | Project | Description | Links |
 |---------|-------------|-------|
 | **Awesome Virtual Cell** | AI-driven simulation of cellular behavior through foundation models, perturbation prediction, and virtual tissue microenvironments. | [GitHub](https://github.com/LiudengZhang/awesome-virtual-cell) · [Site](https://liudengzhang.github.io/awesome-virtual-cell/) |
+| **Awesome Spatial Omics** | Spatial omics has more tools than any analyst can evaluate. This list organizes them by the question you're asking and the technology you're using. | [GitHub](https://github.com/LiudengZhang/awesome-spatial-omics) · [Site](https://liudengzhang.github.io/awesome-spatial-omics/) |
 | **Awesome Spatial Omics Niche** | Every method defines "niche" differently. This list tells you how — and what each definition can and cannot find. | [GitHub](https://github.com/LiudengZhang/awesome-spatial-omics-niche) · [Site](https://liudengzhang.github.io/awesome-spatial-omics-niche/) |
 | **Awesome Pan-Cancer Phosphoproteomics** | Without knowing which kinase, which pathway, and which drug, a phosphosite catalog is not a map. This list connects the tools that turn phosphosites into actionable biology. | [GitHub](https://github.com/LiudengZhang/awesome-pan-cancer-phosphoproteomics) · [Site](https://liudengzhang.github.io/awesome-pan-cancer-phosphoproteomics/) |
 
