@@ -20,6 +20,7 @@ Curated knowledge bases for computational biology — awesome lists with compani
 | Project | Description | Links |
 |---------|-------------|-------|
 | **Awesome List Builder** | Claude Code skill for building awesome-list repos with MkDocs Material companion sites from scratch. | [GitHub](https://github.com/LiudengZhang/awesome-list-builder-skill) |
+| **Knowledge Hub Verifier** | Self-evolving verification skill that checks URLs, DOIs, GitHub repos, and citations across all awesome lists. | [GitHub](https://github.com/LiudengZhang/knowledge-hub-verifier) |
 
 ## What Makes These Lists Different
 
